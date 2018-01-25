@@ -10,7 +10,7 @@
 
 # About TEDxP
 
-> At **TEDxP**, We Build Innovative Solutions for Doers, Makers, Inventors, Advocates, Filmmakers and Photographers, Musicians and Artists, Scientists, Entrepreneurs, NGO Heads, Human Rights Activists and Any Person who use TED Platform, made for visionary thinkers from around the world.
+> **TEDxP** is for Doers, Makers, Inventors, Advocates, Filmmakers and Photographers, Musicians and Artists, Scientists, Entrepreneurs, NGO Heads, Human Rights Activists and ANYONE who uses TED Platform, made for visionary thinkers from around the world.
 
 
 #### Sponsorship Status : 
