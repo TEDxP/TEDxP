@@ -79,7 +79,7 @@ Become a sponsor and get your logo on our `README` on Github with a link to your
 <td>
      <img src="https://avatars0.githubusercontent.com/u/20111163?v=4&s=150" />
      
-     CodeNicely
+**CodeNicely**
 
 <p align="center">
 <a href = "https://github.com/CodeNicely"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
