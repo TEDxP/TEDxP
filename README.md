@@ -5,7 +5,7 @@
 -->
 
 [![license](https://img.shields.io/github/license/TEDxP/TEDxP.svg)](LICENSE.md)
-[![Join the chat at https://gitter.im/TEDxP/TEDxP](https://badges.gitter.im/TEDxP/TEDxP.svg)](https://gitter.im/TEDxP/TEDxP)
+[![Join the chat at https://gitter.im/TEDxP/TEDxP](https://badges.gitter.im/TEDxP/TEDxP.svg)](https://gitter.im/TEDxP/Lobby)
 
 > ***TED Multiplied with Programming!***
 
@@ -56,7 +56,7 @@ You can read about [how to configure the testing environment and how to run the 
 -->
 ## Support Channels
 
-[![Join the chat at https://gitter.im/TEDxP/TEDxP](https://badges.gitter.im/TEDxP/TEDxP.svg)](https://gitter.im/TEDxP/TEDxP)
+[![Join the chat at https://gitter.im/TEDxP/TEDxP](https://badges.gitter.im/TEDxP/TEDxP.svg)](https://gitter.im/TEDxP/Lobby)
 
 **Facing an issue?**
 
@@ -64,7 +64,7 @@ You can read about [how to configure the testing environment and how to run the 
 
 **Just want to say hello?**
 
-**Gitter Channel -** ***https://gitter.im/TEDxP/***
+**Gitter Channel -** ***https://gitter.im/TEDxP/Lobby***
 
 ## Contributing
 
