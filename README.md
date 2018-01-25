@@ -5,6 +5,7 @@
 -->
 
 [![license](https://img.shields.io/github/license/TEDxP/TEDxP.svg)](LICENSE.md)
+[![Join the chat at https://gitter.im/TEDxP/Events](https://badges.gitter.im/TEDxP/TEDxP.svg)](https://gitter.im/TEDxP/TEDxP)
 
 > ***TED Multiplied with Programming!***
 
