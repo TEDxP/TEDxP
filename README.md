@@ -61,10 +61,36 @@ You can read about [how to configure the testing environment and how to run the 
 ## Contributing
 
 Please read the [Contributing to TEDxP](https://TEDxP.readme.io/docs/contributing-to-TEDxP) section on the TEDxP  Documentation for ideas on how to help, and the [CONTRIBUTING.md](https://github.com/TEDxP/TEDxP/blob/master/.github/CONTRIBUTING.md) file for details on our code of conduct, and the process for submitting pull requests.
-<!--
+
 ### Sponsors
-Does your organization use TEDxP ?  Ask your manager or marketing team if you're interested in supporting our project.  Support will allow the maintainers to dedicate more time for maintenance and new features for everyone.  Also, your company's logo will show on GitHub and on our site -- who doesn't want a little extra exposure?
-Become a sponsor and get your logo on our README on Github with a link to your site. [[Become a sponsor](https://opencollective.com/TEDxP#sponsor)]
+Does your organization supports **TEDxP** ?
+
+Ask your manager or marketing team if you're interested in supporting our organisation.
+
+Support will allow the maintainers to dedicate more time for maintenance and new features for everyone.
+
+Also, your company's logo will show on GitHub and on our site -- who doesn't want a little extra exposure?
+
+
+Become a sponsor and get your logo on our `README` on Github with a link to your site and get featured on our website, tweets, posts!
+
+<table>
+<tr>
+<td>
+     <img src="https://avatars0.githubusercontent.com/u/20111163?v=4&s=150" />
+     
+     CodeNicely
+
+<p align="center">
+<a href = "https://github.com/CodeNicely"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://twitter.com/"><img src = "https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36"/></a>
+<a href = "https://www.linkedin.com/company/13260912//"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+</p>
+</td>
+</tr> 
+  </table>
+
+<!--[[Become a sponsor](https://opencollective.com/TEDxP#sponsor)]
 <a href="https://opencollective.com/TEDxP/sponsor/0/website" target="_blank"><img src="https://opencollective.com/TEDxP/sponsor/0/avatar.svg"></a>
 <a href="https://opencollective.com/TEDxP/sponsor/1/website" target="_blank"><img src="https://opencollective.com/TEDxP/sponsor/1/avatar.svg"></a>
 <a href="https://opencollective.com/TEDxP/sponsor/2/website" target="_blank"><img src="https://opencollective.com/TEDxP/sponsor/2/avatar.svg"></a>
